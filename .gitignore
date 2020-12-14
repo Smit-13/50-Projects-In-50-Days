@@ -1,0 +1,18 @@
+.DS_Store
+_project_starter_
+WhatsApp Image 2020-10-16 at 1.08.24 AM.jpeg
+<<<<<<< HEAD
+=======
+.vscode
+### vscode ###
+>>>>>>> 991c175 (!)
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+<<<<<<< HEAD
+*.code-workspace
+=======
+*.code-workspace
+>>>>>>> 991c175 (!)
